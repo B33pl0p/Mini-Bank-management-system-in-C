@@ -12,3 +12,6 @@ FEATURES :
 And stores all the informations in a .txt file.
 
 This program can be quite helpful for newbies in C language as a reference and for small college  projects.
+
+
+This is the first C project that I have done in first semester.
